@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9154349c-32f6-4dfd-acd2-a4a4b3e6a904" name="Default" comment="upload drive">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Kuchnik_Michael_Dec_02_2015.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Kuchnik_Michael_Dec_02_2015.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Patel_Sunny_Dec_02_2015.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Patel_Sunny_Dec_02_2015.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Philippe_Laban_Dec_02_2015.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Philippe_Laban_Dec_02_2015.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Tangkijvorakul_Ratchapong_Dec_02_2015.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook/DSN_S09_Tangkijvorakul_Ratchapong_Dec_02_2015.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/ece4011_notebook.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/additional/gui_prototype.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/additional/gui_prototype.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/michael.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/philippe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/punch.png" />
+    <list default="true" id="9154349c-32f6-4dfd-acd2-a4a4b3e6a904" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpiceMixerWebsiteV2.iws" />
@@ -51,14 +38,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36829463">
-              <caret line="302" column="163" selection-start-line="302" selection-start-column="163" selection-end-line="302" selection-end-column="163" />
+            <state vertical-scroll-proportion="0.05124099">
+              <caret line="284" column="61" selection-start-line="284" selection-start-column="61" selection-end-line="284" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#2;n#li#1;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#li#4;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -602,7 +588,7 @@
       <workItem from="1455655037988" duration="1731000" />
       <workItem from="1455657354372" duration="542000" />
       <workItem from="1455659077765" duration="219000" />
-      <workItem from="1455659641728" duration="2974000" />
+      <workItem from="1455659641728" duration="3239000" />
     </task>
     <task id="LOCAL-00001" summary="Icon">
       <created>1455659865131</created>
@@ -628,15 +614,21 @@
       <option name="project" value="LOCAL" />
       <updated>1455662545085</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upload data">
+      <created>1455662621799</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1455662621799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5466000" />
+    <option name="totallyTimeSpent" value="5731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -650,7 +642,7 @@
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24648437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24648437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -682,7 +674,8 @@
     <MESSAGE value="add two categories" />
     <MESSAGE value="upload photos" />
     <MESSAGE value="upload drive" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload drive" />
+    <MESSAGE value="upload data" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -706,7 +699,6 @@
             <element signature="n#style#0;n#a#0;n#p#2;n#li#1;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#4;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -745,7 +737,6 @@
             <element signature="n#style#0;n#a#0;n#p#2;n#li#1;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#4;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -784,7 +775,6 @@
             <element signature="n#style#0;n#a#0;n#p#2;n#li#1;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#4;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -832,14 +822,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36829463">
-          <caret line="302" column="163" selection-start-line="302" selection-start-column="163" selection-end-line="302" selection-end-column="163" />
+        <state vertical-scroll-proportion="0.05124099">
+          <caret line="284" column="61" selection-start-line="284" selection-start-column="61" selection-end-line="284" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#2;n#li#1;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#li#4;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
