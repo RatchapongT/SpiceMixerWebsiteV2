@@ -258,13 +258,58 @@
                     </ul>
                 </div>
             </section>
-
             <!-- CTA -->
-            <section class = "wrapper style4">
+            <section id = "home-part" class = "wrapper style4">
+
                 <div align = "center" class = "inner">
-                    <header>
-                        <h2>Automated Spice Mixer</h2>
-                    </header>
+                    <div id = "countdown_dashboard">
+
+                        <h1 class = "text-news">CAPSTONE DESIGN EXPO IN</h1>
+
+                        <div class = "row">
+
+                            <!-- Days -->
+                            <div class = "col-md-3 col-sm-3 col-xs-3 dash-glob first-dash-glob">
+                                <div class = "dash days_dash">
+                                    <!-- Days / if you need only 2 figures for the day, delete the first line <div class="digit">0</div> -->
+                                    <div class = "digit">0</div>
+                                    <div class = "digit">0</div>
+                                    <span class = "text-right">Days</span>
+                                </div>
+                            </div>
+
+                            <!-- Hours -->
+                            <div class = "col-md-3 col-sm-3 col-xs-3 dash-glob">
+                                <div class = "dash hours_dash">
+                                    <div class = "digit">0</div>
+                                    <div class = "digit">0</div>
+                                    <span class = "text-right">Hours</span>
+                                </div>
+                            </div>
+
+                            <!-- Minutes -->
+                            <div class = "col-md-3 col-sm-3 col-xs-3 dash-glob">
+                                <div class = "dash minutes_dash">
+                                    <div class = "digit">0</div>
+                                    <div class = "digit">0</div>
+                                    <span class = "text-right">Minutes</span>
+                                </div>
+                            </div>
+
+                            <!-- Seconds -->
+                            <div class = "col-md-3 col-sm-3 col-xs-3 dash-glob">
+                                <div class = "dash seconds_dash">
+                                    <div class = "digit">0</div>
+                                    <div class = "digit">0</div>
+                                    <span class = "text-right">Seconds</span>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <!-- .countdown_dashboard -->
+                    <!-- CLOSE item-title -->
                     <a href = "http://www2.ece.gatech.edu/academic/courses/ece4012/" class = "button fit">COURSE WEBSITE</a>
                 </div>
             </section>
@@ -329,10 +374,32 @@
         <script src = "assets/js/jquery.scrolly.min.js"></script>
         <script src = "assets/js/skel.min.js"></script>
         <script src = "assets/js/util.js"></script>
+        <script src = "assets/js/countdown.js"></script>
+
         <!--[if lte IE 8]>
-        <script src = "assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src = "assets/js/ie/respond.min.js"></script>
+        <![endif]-->
         <script src = "assets/js/main.js"></script>
 
+        <script src = "assets/js/countdown.js"></script>
+        <script>
+
+
+            // Set you end date just below
+            $('#countdown_dashboard').countDown({
+                targetDate: {
+                    'day': 28,
+                    'month': 4,
+                    'year': 2016,
+                    'hour': 0,
+                    'min': 0,
+                    'sec': 0
+                },
+                omitWeeks: true
+            });
+
+
+        </script>
     </body>
 
 </html>
